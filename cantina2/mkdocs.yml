@@ -1,5 +1,8 @@
 site_name: My Docs
 site_name: cantina_Gerard
 nav:
-  -Home: index.md
-  -About: about.md
+  - Home: index.md
+  - Menu: menu.md
+  - About: about.md
+  - Contacte: contacte.md
+theme: readthedocs
